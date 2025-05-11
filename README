@@ -1,0 +1,27 @@
+# PrestamosUDI
+
+Sistema web para la gestión de préstamos de equipos y salas, desarrollado como parte de un proyecto académico, permite registrar usuarios, recursos y préstamos, así como realizar operaciones CRUD completas.
+
+## Características principales
+
+- Registro y administración de usuarios.
+- Gestión de equipos y salas.
+- Registro de nuevos préstamos.
+- Finalización y edición de préstamos activos.
+- Dashboard con visión general del sistema.
+- Validaciones básicas en backend.
+- Script SQL para creación automática de la base de datos.
+
+## Tecnologías utilizadas
+
+- **Frontend**: HTML, CSS, Bootstrap
+- **Backend**: PHP
+- **Base de Datos**: MySQL
+- **Servidor local**: XAMPP
+
+## Instalación y uso
+
+1. Clona este repositorio:
+
+   ```bash
+   git clone https://github.com/usuario/PrestamosUDI.git
