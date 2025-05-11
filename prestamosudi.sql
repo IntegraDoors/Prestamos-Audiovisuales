@@ -1,0 +1,9 @@
+
+CREATE DATABASE IF NOT EXISTS prestamosudi;
+USE prestamosudi;
+
+CREATE TABLE IF NOT EXISTS equipos (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    nombre VARCHAR(100),
+    tipo VARCHAR(50)
+);
